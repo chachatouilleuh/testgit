@@ -1,2 +1,5 @@
 first raccoon ahahah
 i am GOD, I am raccoon
+for (int raccoon; raccoon<4 ; raccoon ++){
+	int raccoonGirl = 3;
+};
